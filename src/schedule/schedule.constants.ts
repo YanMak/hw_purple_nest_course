@@ -1,0 +1,1 @@
+export const SCHEDULE_NOT_FOUND = 'schedule not found'

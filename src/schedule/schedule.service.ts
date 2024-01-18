@@ -35,4 +35,6 @@ export class ScheduleService {
 		return this.scheduleModel.find({ date: date }).exec()
 	}
 
+	async testGitPullRequet() { }
+
 }
